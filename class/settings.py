@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-2y)7kf)ugvk)h_w_cs0mx%(8t_=)(g5u!$s1vk(@(fdx#ulj(o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*'
+ALLOWED_HOSTS = ['bayrakclassfilm.com','www.bayrakclassfilm.com'
    
 ]
 
